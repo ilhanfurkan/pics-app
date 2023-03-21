@@ -1,0 +1,15 @@
+.image-list{
+    columns: 6 200px;
+    column-gap: 10px;
+    background-size:100% 100%;
+    overflow: hidden;
+    border-top:1px solid #bababa;
+    padding-top:20px;
+    margin: 30px;
+    margin-top: 0px;
+}
+img{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
